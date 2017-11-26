@@ -1,0 +1,23 @@
+/*
+ * collida de https://wallpapersafari.com/cloudy-sky-wallpaper
+ */
+
+html,body{
+  height: 100%;
+  width: 100%; 
+}
+
+body{
+
+  background-image: url(/img/ceo.jpg);
+  background-size: cover;
+
+}
+
+  div.mensaxe{
+    background-color: transparent;
+    text-align: center;
+    padding-top: 15vh;
+    font-size: 5vw;   
+    color: #142739;
+  }
