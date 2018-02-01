@@ -1,0 +1,8 @@
+version: '3'
+services:
+  gatinhos:
+    image: web-gatinhos
+    ports: 
+    - "8000:5000"
+volumes: {}
+networks: {}
